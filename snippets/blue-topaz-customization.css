@@ -1,0 +1,39 @@
+:root {
+  --font-size-obsidian-titlebar:             14px;
+  --font-size-vault-name:                    14px;/*左侧库名字体大小*/
+  --font-size-file-header-title:             14px;/*文件抬头标题，只在非Andy mode plugin时生效*/
+  --font-size-file-header-title-andy-plugin: 16px;/*文件抬头标题for Andy mode plugin*/
+  --font-size-embed-title-size:              18px;
+  --font-size-folder-and-file:               14px;/*左侧边栏文件字体大小*/
+  --font-size-edit-normal:                   14px;/*编辑正文字体大小*/
+  --font-size-preview-normal:                14px;/*预览正文字体大小*/
+  --font-size-h1:                            23px;
+  --font-size-h2:                            21px;
+  --font-size-h3:                            19px;
+  --font-size-h4:                            17px;
+  --font-size-h5:                            15px;
+  --font-size-h6:                            14px;
+  --font-size-tag:                           14px;
+  --font-size-preview-blockquote:            14px;
+  --font-size-edit-blockquote:               14px;
+  --font-size-code:                          14px;
+  --font-size-edit-code:                     14px;
+  --font-size-latex:                         14px;
+  --text-size-cloze:                         14px;
+
+  /*font family*/
+  --font-family-list:                      "JetBrains Mono";/*列表字体*/
+  --font-family-major:                     "JetBrains Mono";/*主体（包括列表）字体，除代码框等少数部分*/
+  --font-family-h1:                        "JetBrains Mono";
+  --font-family-h2:                        "JetBrains Mono";
+  --font-family-h3:                        "JetBrains Mono";
+  --font-family-h4:                        "JetBrains Mono";
+  --font-family-h5:                        "JetBrains Mono";
+  --font-family-h6:                        "JetBrains Mono";
+  --font-family-title:                     "JetBrains Mono";/*文件抬头标题*/
+  --font-family-folder-file-title:         "JetBrains Mono";/*左侧边栏文件、文件夹字体*/
+  --font-family-preview-edit-code:         "JetBrains Mono";
+  --text-family-inline-code:               "JetBrains Mono";
+  --font-family-tag:                       "JetBrains Mono";
+  --font-family-vault:                     "JetBrains Mono";/*左侧库名字体*/
+}
