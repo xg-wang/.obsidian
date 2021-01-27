@@ -37,3 +37,11 @@
   --font-family-tag:                       "JetBrains Mono";
   --font-family-vault:                     "JetBrains Mono";/*左侧库名字体*/
 }
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-section,
+.markdown-source-view.is-readable-line-width .CodeMirror,
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  line-height: 30px;
+  font-family: var(--font-family-major);
+  font-weight: 500;
+}
