@@ -41,7 +41,7 @@
 .markdown-preview-view.is-readable-line-width .markdown-preview-section,
 .markdown-source-view.is-readable-line-width .CodeMirror,
 .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
-  line-height: 30px;
+  line-height: 26px;
   font-family: var(--font-family-major);
-  font-weight: 500;
+  font-weight: 600;
 }
