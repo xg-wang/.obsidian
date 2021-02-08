@@ -45,3 +45,13 @@
   font-family: var(--font-family-major);
   font-weight: 600;
 }
+
+/* Disable solid inactive quote bar, it's shifting the main text block */
+/* Add background-color to inactive quote */
+div:not(.CodeMirror-activeline) > .HyperMD-quote {
+  background-color: var(--background-primary-alt);
+}
+
+div > .HyperMD-quote:active {
+  background-color: transparent;
+}
