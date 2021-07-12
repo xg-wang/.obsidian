@@ -1,0 +1,10 @@
+{
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "obsidianCss": false,
+  "enabledCssSnippets": [
+    "minimal_dracula_skin"
+  ],
+  "theme": "obsidian",
+  "baseFontSize": 16
+}
